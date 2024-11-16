@@ -29,12 +29,11 @@ Each folder contains the corresponding class images.
 
 If the dataset is compressed, you can unzip it using the following lines in the script:
 
-```python
 # Uncomment and modify these lines if needed
-# !unzip /path/to/MildDemented.zip
-# !unzip /path/to/ModerateDemented.zip
-# !unzip /path/to/NonDemented.zip
-# !unzip /path/to/VeryMildDemented.zip
+!unzip /path/to/MildDemented.zip
+!unzip /path/to/ModerateDemented.zip
+ !unzip /path/to/NonDemented.zip
+ !unzip /path/to/VeryMildDemented.zip
 
 ## Model Architecture
 
