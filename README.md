@@ -25,15 +25,6 @@ Key features of this project include:
 
 The dataset has been taken from kaggle.
 
-Each folder contains the corresponding class images.
-
-If the dataset is compressed, you can unzip it using the following lines in the script:
-
--!unzip /path/to/MildDemented.zip
--!unzip /path/to/ModerateDemented.zip
- -!unzip /path/to/NonDemented.zip
- -!unzip /path/to/VeryMildDemented.zip
-
 ## Model Architecture
 
 ### 1. Data Preprocessing
