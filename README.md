@@ -29,11 +29,10 @@ Each folder contains the corresponding class images.
 
 If the dataset is compressed, you can unzip it using the following lines in the script:
 
-# Uncomment and modify these lines if needed
-!unzip /path/to/MildDemented.zip
-!unzip /path/to/ModerateDemented.zip
- !unzip /path/to/NonDemented.zip
- !unzip /path/to/VeryMildDemented.zip
+-!unzip /path/to/MildDemented.zip
+-!unzip /path/to/ModerateDemented.zip
+ -!unzip /path/to/NonDemented.zip
+ -!unzip /path/to/VeryMildDemented.zip
 
 ## Model Architecture
 
@@ -90,9 +89,5 @@ The model is evaluated using:
 ### Training and Validation Curves
 Accuracy and loss curves are plotted for both initial training and fine-tuning phases.
 
----
-
-## Saved Model
-The trained model is saved as:
 
 
