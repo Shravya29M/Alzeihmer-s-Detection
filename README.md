@@ -68,7 +68,7 @@ The dataset has been taken from kaggle.
 ## Results
 
 ### Test Accuracy
-- **95.15%**
+- **96%**
 
 ### Performance Metrics
 The model is evaluated using:
